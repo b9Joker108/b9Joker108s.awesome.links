@@ -1,0 +1,20 @@
+repo_name: b9Joker108/b9Joker108s.awesome.links
+report_id: e456ac6ba68351281a236b74ba888ca2
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-22T12:05:39+00:00'
+requested_by: b9Joker108
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/b9Joker108/b9Joker108s.awesome.links
+  detection_source: Repo Metadata
